@@ -1,0 +1,91 @@
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1\final_1\bin\Debug\final_1.exe.config
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1\final_1\bin\Debug\final_1.exe
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1\final_1\bin\Debug\final_1.pdb
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1\final_1\obj\Debug\final_1.csprojResolveAssemblyReference.cache
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1\final_1\obj\Debug\final_1.Form1.resources
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1\final_1\obj\Debug\final_1.Properties.Resources.resources
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1\final_1\obj\Debug\final_1.csproj.GenerateResource.Cache
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1\final_1\obj\Debug\final_1.exe
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1\final_1\obj\Debug\final_1.pdb
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1\final_1\obj\Debug\final_1.Form2.resources
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\bin\Debug\final_1.exe.config
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.exe
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.pdb
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\bin\Debug\final_1.exe
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\bin\Debug\final_1.pdb
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.csprojResolveAssemblyReference.cache
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.Properties.Resources.resources
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.csproj.GenerateResource.Cache
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\bin\Debug\Interop.WMPLib.dll
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\Interop.WMPLib.dll
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.csproj.ResolveComReference.cache
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.main.resources
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.main_play.resources
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.bag.resources
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.main_card.resources
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.main_victory.resources
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.main_writer.resources
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.main_c.resources
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.main_choose.resources
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.main_enter.resources
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.main_team.resources
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.main_partner.resources
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.main_round.resources
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.main_d.resources
+C:\Users\LEO\Desktop\作業\視窗程式設計\final_1 - 複製\final_1\obj\Debug\final_1.main_choose2.resources
+E:\winp-15.7z\final_1\bin\Debug\final_1.exe.config
+E:\winp-15.7z\final_1\bin\Debug\final_1.exe
+E:\winp-15.7z\final_1\bin\Debug\final_1.pdb
+E:\winp-15.7z\final_1\bin\Debug\Interop.WMPLib.dll
+E:\winp-15.7z\final_1\bin\Debug\AxInterop.WMPLib.dll
+E:\winp-15.7z\final_1\obj\Debug\final_1.csprojResolveAssemblyReference.cache
+E:\winp-15.7z\final_1\obj\Debug\Interop.WMPLib.dll
+E:\winp-15.7z\final_1\obj\Debug\AxInterop.WMPLib.dll
+E:\winp-15.7z\final_1\obj\Debug\final_1.csproj.ResolveComReference.cache
+E:\winp-15.7z\final_1\obj\Debug\final_1.main.resources
+E:\winp-15.7z\final_1\obj\Debug\final_1.main_choose2.resources
+E:\winp-15.7z\final_1\obj\Debug\final_1.main_victory.resources
+E:\winp-15.7z\final_1\obj\Debug\final_1.main_writer.resources
+E:\winp-15.7z\final_1\obj\Debug\final_1.main_c.resources
+E:\winp-15.7z\final_1\obj\Debug\final_1.main_d.resources
+E:\winp-15.7z\final_1\obj\Debug\final_1.main_play.resources
+E:\winp-15.7z\final_1\obj\Debug\final_1.bag.resources
+E:\winp-15.7z\final_1\obj\Debug\final_1.main_card.resources
+E:\winp-15.7z\final_1\obj\Debug\final_1.main_choose.resources
+E:\winp-15.7z\final_1\obj\Debug\final_1.main_enter.resources
+E:\winp-15.7z\final_1\obj\Debug\final_1.main_team.resources
+E:\winp-15.7z\final_1\obj\Debug\final_1.main_partner.resources
+E:\winp-15.7z\final_1\obj\Debug\final_1.main_round.resources
+E:\winp-15.7z\final_1\obj\Debug\final_1.Properties.Resources.resources
+E:\winp-15.7z\final_1\obj\Debug\final_1.csproj.GenerateResource.Cache
+E:\winp-15.7z\final_1\obj\Debug\final_1.exe
+E:\winp-15.7z\final_1\obj\Debug\final_1.pdb
+G:\winp-15.7z\final_1\bin\Debug\final_1.exe.config
+G:\winp-15.7z\final_1\obj\Debug\Interop.WMPLib.dll
+G:\winp-15.7z\final_1\obj\Debug\AxInterop.WMPLib.dll
+G:\winp-15.7z\final_1\obj\Debug\final_1.csproj.ResolveComReference.cache
+G:\winp-15.7z\final_1\obj\Debug\final_1.exe
+G:\winp-15.7z\final_1\obj\Debug\final_1.pdb
+G:\winp-15.7z\final_1\bin\Debug\final_1.exe
+G:\winp-15.7z\final_1\bin\Debug\final_1.pdb
+G:\winp-15.7z\final_1\bin\Debug\Interop.WMPLib.dll
+G:\winp-15.7z\final_1\bin\Debug\AxInterop.WMPLib.dll
+G:\winp-15.7z\final_1\obj\Debug\final_1.csprojResolveAssemblyReference.cache
+G:\winp-15.7z\final_1\obj\Debug\final_1.main.resources
+G:\winp-15.7z\final_1\obj\Debug\final_1.main_choose2.resources
+G:\winp-15.7z\final_1\obj\Debug\final_1.main_victory.resources
+G:\winp-15.7z\final_1\obj\Debug\final_1.main_writer.resources
+G:\winp-15.7z\final_1\obj\Debug\final_1.main_c.resources
+G:\winp-15.7z\final_1\obj\Debug\final_1.main_d.resources
+G:\winp-15.7z\final_1\obj\Debug\final_1.main_play.resources
+G:\winp-15.7z\final_1\obj\Debug\final_1.bag.resources
+G:\winp-15.7z\final_1\obj\Debug\final_1.main_card.resources
+G:\winp-15.7z\final_1\obj\Debug\final_1.main_choose.resources
+G:\winp-15.7z\final_1\obj\Debug\final_1.main_enter.resources
+G:\winp-15.7z\final_1\obj\Debug\final_1.main_team.resources
+G:\winp-15.7z\final_1\obj\Debug\final_1.main_partner.resources
+G:\winp-15.7z\final_1\obj\Debug\final_1.main_round.resources
+G:\winp-15.7z\final_1\obj\Debug\final_1.Properties.Resources.resources
+G:\winp-15.7z\final_1\obj\Debug\final_1.csproj.GenerateResource.Cache
